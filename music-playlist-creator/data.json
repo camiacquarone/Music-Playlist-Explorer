@@ -1,0 +1,401 @@
+{
+  "playlists": [
+    {
+      "playlistId": 1,
+      "playlist_title": "Study Session",
+      "playlist_creator": "Freddie Mercury",
+      "playlist_cover": "assets/img/studyCover.png",
+      "likes": 42,
+      "songs": [
+        {
+          "songID": 101,
+          "song_cover": "assets/img/song1.jpeg",
+          "title": "River",
+          "artist": "Leon Bridges",
+          "duration": "3:58",
+          "spotify_url": "https://open.spotify.com/embed/track/3hhbDnFUb2bicI2df6VurK?utm_source=generator"
+        },
+        {
+          "songID": 102,
+          "song_cover": "assets/img/song2.jpeg",
+          "title": "Holocene",
+          "artist": "Bon Iver",
+          "duration": "5:36",
+          "spotify_url": "https://open.spotify.com/embed/track/35KiiILklye1JRRctaLUb4?utm_source=generator"
+
+        },
+        {
+          "songID": 103,
+          "song_cover": "assets/img/song3.jpeg",
+          "title": "The Night We Met",
+          "artist": "Lord Huron",
+          "duration": "3:28",
+          "spotify_url": "https://open.spotify.com/embed/track/5yJaXWIErrrsjQ3J0eR5aK?utm_source=generator" 
+        },
+        {
+          "songID": 104,
+          "song_cover": "assets/img/song4.jpeg",
+          "title": "Pink + White",
+          "artist": "Frank Ocean",
+          "duration": "3:04",
+          "spotify_url": "https://open.spotify.com/embed/track/3xKsf9qdS1CyvXSMEid6g8?utm_source=generator"
+        },
+        {
+          "songID": 105,
+          "song_cover": "assets/img/song5.jpeg",
+          "title": "Lost in Japan",
+          "artist": "Shawn Mendes",
+          "duration": "3:18",
+          "spotify_url": "https://open.spotify.com/embed/track/575NJxNUVDqwJGdzBrlLbv?utm_source=generator"
+        }
+      ]
+    },
+
+    {
+      "playlistId": 2,
+      "playlist_title": "Late Night Drive",
+      "playlist_creator": "Elton John",
+      "playlist_cover": "assets/img/driveCover.png",
+      "likes": 58,
+      "songs": [
+        {
+          "song_id": 106,
+          "song_cover": "assets/img/song6.jpeg",
+          "title": "Photograph",
+          "artist": "Ed Sheeran",
+          "duration": "4:18",
+          "spotify_url": "https://open.spotify.com/embed/track/1HNkqx9Ahdgi1Ixy2xkKkL?utm_source=generator"
+        },
+        {
+          "song_id": 107,
+          "song_cover": "assets/img/song7.jpeg",
+          "title": "She Will Be Loved",
+          "artist": "Maroon 5",
+          "duration": "4:17",
+          "spotify_url": "https://open.spotify.com/embed/track/7sapKrjDij2fpDVj0GxP66?utm_source=generator"
+        },
+        {
+          "song_id": 108,
+          "song_cover": "assets/img/song8.jpeg",
+          "title": "Let Her Go",
+          "artist": "Passenger",
+          "duration": "4:12",
+          "spotify_url": "https://open.spotify.com/embed/track/1KxwZYyzWNyZSRyErj2ojT?utm_source=generator"
+        },
+        {
+          "song_id": 109,
+          "song_cover": "assets/img/song9.jpeg",
+          "title": "Youth",
+          "artist": "Daughter",
+          "duration": "4:12",
+          "spotify_url": "https://open.spotify.com/embed/track/2ubUxHP2XzxO2WmcF1dJCo?utm_source=generator"
+        },
+        {
+          "song_id": 110,
+          "song_cover": "assets/img/song10.jpeg",
+          "title": "Stay",
+          "artist": "Rihanna feat. Mikky Ekko",
+          "duration": "4:00",
+          "spotify_url": "https://open.spotify.com/embed/track/1dEy9Pl81QopSxNsPxXQxv?utm_source=generator"
+        }
+      ]
+    },
+
+    {
+      "playlistId": 3,
+      "playlist_title": "Throwback Thursdays",
+      "playlist_creator": "Chris Martin",
+      "playlist_cover": "assets/img/throwbackCover.png",
+      "likes": 23,
+      "songs": [
+        {
+          "song_id": 111,
+          "song_cover": "assets/img/song11.jpeg",
+          "title": "Mr.Brightside",
+          "artist": "The Killers",
+          "duration": "3:06",
+          "spotify_url": "https://open.spotify.com/embed/track/003vvx7Niy0yvhvHt4a68B?utm_source=generator"
+        },
+        {
+          "song_id": 112,
+          "song_cover": "assets/img/song12.jpeg",
+          "title": "Billie Jean",
+          "artist": "Michael Jackson",
+          "duration": "4:54",
+          "spotify_url": "https://open.spotify.com/embed/track/7J1uxwnxfQLu4APicE5Rnj?utm_source=generator"
+        },
+        {
+          "song_id": 113,
+          "song_cover": "assets/img/song13.jpeg",
+          "title": "Wonderwall",
+          "artist": "Oasis",
+          "duration": "4:18",
+          "spotify_url": "https://open.spotify.com/embed/track/1qPbGZqppFwLwcBC1JQ6Vr?utm_source=generator"
+        },
+        {
+          "song_id": 114,
+          "song_cover": "assets/img/song14.jpeg",
+          "title": "Blackbird",
+          "artist": "The Beatles",
+          "duration": "3:58",
+          "spotify_url": "https://open.spotify.com/embed/track/5jgFfDIR6FR0gvlA56Nakr?utm_source=generator"
+        },
+        {
+          "song_id": 115,
+          "song_cover": "assets/img/song15.jpeg",
+          "title": "No Scrubs",
+          "artist": "TLC",
+          "duration": "3:39",
+          "spotify_url": "https://open.spotify.com/embed/track/1KGi9sZVMeszgZOWivFpxs?utm_source=generator"
+        }
+      ]
+    },
+
+    {
+      "playlistId": 4,
+      "playlist_title": "Workout Energy",
+      "playlist_creator": "Bruno Mars",
+      "playlist_cover": "assets/img/workoutCover.png",
+      "likes": 107,
+      "songs": [
+        {
+          "song_id": 116,
+          "song_cover": "assets/img/song16.jpeg",
+          "title": "Titanium",
+          "artist": "David Guetta feat. Sia",
+          "duration": "4:05",
+          "spotify_url": "https://open.spotify.com/embed/track/0lHAMNU8RGiIObScrsRgmP?utm_source=generator"
+        },
+        {
+          "song_id": 117,
+          "song_cover": "assets/img/song17.jpeg",
+          "title": "Power",
+          "artist": "Kanye West",
+          "duration": "3:41",
+          "spotify_url": "https://open.spotify.com/embed/track/76mzio0HuYMaCfIDd5EU1w?utm_source=generator&theme=0"
+        },
+        {
+          "song_id": 118,
+          "song_cover": "assets/img/song18.jpeg",
+          "title": "Turn Down for What",
+          "artist": "DJ Snake",
+          "duration": "3:33",
+          "spotify_url": "https://open.spotify.com/embed/track/6h5yOjQNDaLZ0rW2OGoXTB?utm_source=generator"
+        },
+        {
+          "song_id": 119,
+          "song_cover": "assets/img/song19.jpeg",
+          "title": "Lose Control",
+          "artist": "Missy Elliott",
+          "duration": "3:47",
+          "spotify_url": "https://open.spotify.com/embed/track/1ulAlG3x3jWtCCK2SI4qyL?utm_source=generator"
+        },
+        {
+          "song_id": 120,
+          "song_cover": "assets/img/song20.jpeg",
+          "title": "Animals",
+          "artist": "Martin Garrix",
+          "duration": "5:03",
+          "spotify_url": "https://open.spotify.com/embed/track/0A9mHc7oYUoCECqByV8cQR?utm_source=generator"
+        }
+      ]
+    },
+    {
+      "playlistId": 5,
+      "playlist_title": "Acoustic Covers",
+      "playlist_creator": "Lady Gaga",
+      "playlist_cover": "assets/img/acousticCover.png",
+      "likes": 16,
+      "songs": [
+        {
+          "song_id": 121,
+          "song_cover": "assets/img/song21.jpeg",
+          "title": "Skinny Love",
+          "artist": "Birdy (Bon Iver cover)",
+          "duration": "3:21",
+          "spotify_url": "https://open.spotify.com/embed/track/4RL77hMWUq35NYnPLXBpih?utm_source=generator" 
+        },
+        {
+          "song_id": 122,
+          "song_cover": "assets/img/song22.jpeg",
+          "title": "Creep (Acoustic)",
+          "artist": "Radiohead",
+          "duration": "3:45",
+          "spotify_url": "https://open.spotify.com/embed/track/6JpjIy1M7oxvPJ3uVdUKTe?utm_source=generator"
+        },
+        {
+          "song_id": 123,
+          "song_cover": "assets/img/song23.jpeg",
+          "title": "Fast Car",
+          "artist": "Jasmine Thompson",
+          "duration": "4:17",
+          "spotify_url": "https://open.spotify.com/embed/track/3jOivF6kp5bN9R4up7oDw7?utm_source=generator" 
+        },
+        {
+          "song_id": 124,
+          "song_cover": "assets/img/song24.jpeg",
+          "title": "Can I Be Him",
+          "artist": "James Arthur",
+          "duration": "4:12",
+          "spotify_url": "https://open.spotify.com/embed/track/0VhgEqMTNZwYL1ARDLLNCX?utm_source=generator"
+        },
+        {
+          "song_id": 125,
+          "song_cover": "assets/img/song25.jpeg",
+          "title": "Toxic",
+          "artist": "Melanie Martinez",
+          "duration": "3:22",
+          "spotify_url": "https://open.spotify.com/embed/track/0WNhGqiooqQePeQoeJZQOZ?utm_source=generator"
+        }
+      ]
+    },
+    {
+      "playlistId": 6,
+      "playlist_title": "Cooking Grooves",
+      "playlist_creator": "Alicia Keys",
+      "playlist_cover": "assets/img/cookingCover.png",
+      "likes": 62,
+      "songs": [
+        {
+          "song_id": 126,
+          "song_cover": "assets/img/song26.jpeg",
+          "title": "Valerie",
+          "artist": "Amy Winehouse",
+          "duration": "3:39",
+          "spotify_url": "https://open.spotify.com/embed/track/5it9RIRXDwiLpJKdce6Z7e?utm_source=generator"
+        },
+        {
+          "song_id": 127,
+          "song_cover": "assets/img/song27.jpeg",
+          "title": "Peaches",
+          "artist": "Justin Bieber",
+          "duration": "2:28",
+          "spotify_url": "https://open.spotify.com/embed/track/4iJyoBOLtHqaGxP12qzhQI?utm_source=generator"
+        },
+        {
+          "song_id": 128,
+          "song_cover": "assets/img/song28.jpeg",
+          "title": "Watermelon Sugar",
+          "artist": "Harry Styles",
+          "duration": "3:19",
+          "spotify_url": "https://open.spotify.com/embed/track/6UelLqGlWMcVH1E5c4H7lY?utm_source=generator" 
+        },
+        {
+          "song_id": 129,
+          "song_cover": "assets/img/song29.jpeg",
+          "title": "Sugar",
+          "artist": "Maroon 5",
+          "duration": "4:12",
+          "spotify_url": "https://open.spotify.com/embed/track/13nZlZZYT0VkoUkcZ9j8fI?utm_source=generator" 
+        },
+        {
+          "song_id": 130,
+          "song_cover": "assets/img/song30.jpeg",
+          "title": "Dancing Queen",
+          "artist": "ABBA",
+          "duration": "3:51",
+          "spotify_url": "https://open.spotify.com/embed/track/0GjEhVFGZW8afUYGChu3Rr?utm_source=generator"
+        }
+      ]
+    },
+
+    {
+      "playlistId": 7,
+      "playlist_title": "Roadtrip Favorites",
+      "playlist_creator": "Ed Sheeran",
+      "playlist_cover": "assets/img/roadtripCover.png",
+      "likes": 79,
+      "songs": [
+        {
+          "song_id": 131,
+          "song_cover": "assets/img/song31.jpeg",
+          "title": "Style",
+          "artist": "Taylor Swift",
+          "duration": "3:51",
+          "spotify_url": "https://open.spotify.com/embed/track/4lIxdJw6W3Fg4vUIYCB0S5?utm_source=generator"
+        },
+        {
+          "song_id": 132,
+          "song_cover": "assets/img/song32.jpeg",
+          "title": "Tití Me Preguntó",
+          "artist": "Bad Bunny",
+          "duration": "4:03",
+          "spotify_url": "https://open.spotify.com/embed/track/1IHWl5LamUGEuP4ozKQSXZ?utm_source=generator"
+        },
+        {
+          "song_id": 133,
+          "song_cover": "assets/img/song33.jpeg",
+          "title": "Fireproof",
+          "artist": "One Direction",
+          "duration": "3:27",
+          "spotify_url": "https://open.spotify.com/embed/track/34aYkYrY3sXhEU9O4VQgtB?utm_source=generator"
+        },
+        {
+          "song_id": 134,
+          "song_cover": "assets/img/song34.jpeg",
+          "title": "Levitating",
+          "artist": "Dua Lipa",
+          "duration": "3:23",
+          "spotify_url": "https://open.spotify.com/embed/track/39LLxExYz6ewLAcYrzQQyP?utm_source=generator"
+        },
+        {
+          "song_id": 135,
+          "song_cover": "assets/img/song35.jpeg",
+          "title": "Stronger",
+          "artist": "Kelly Clarkson",
+          "duration": "3:09",
+          "spotify_url": "https://open.spotify.com/embed/track/6D60klaHqbCl9ySc8VcRss?utm_source=generator"
+        }
+      ]
+    },
+    {
+      "playlistId": 8,
+      "playlist_title": "Current Hits",
+      "playlist_creator": "Camila Cabello",
+      "playlist_cover": "assets/img/topCover.png",
+      "likes": 14,
+      "songs": [
+        {
+          "song_id": 136,
+          "song_cover": "assets/img/song36.jpeg",
+          "title": "Columbia",
+          "artist": "Quevedo",
+          "duration": "3:28",
+          "spotify_url": "https://open.spotify.com/embed/track/0uqt3MShCD4uYCIRNm6d4o?utm_source=generator"
+        },
+        {
+          "song_id": 137,
+          "song_cover": "assets/img/song37.jpeg",
+          "title": "Luna",
+          "artist": "Feid & ATL Jacob",
+          "duration": "3:46",
+          "spotify_url": "https://open.spotify.com/embed/track/7bywjHOc0wSjGGbj04XbVi?utm_source=generator" 
+        },
+        {
+          "song_id": 138,
+          "song_cover": "assets/img/song38.jpeg",
+          "title": "Not Like Us",
+          "artist": "Kendrick Lamar",
+          "duration": "4:34",
+          "spotify_url": "https://open.spotify.com/embed/track/6ZWalyzfVcNCc1XwKnnyyn?utm_source=generator"
+        },
+        {
+          "song_id": 139,
+          "song_cover": "assets/img/song39.jpeg",
+          "title": "Lunch",
+          "artist": "Billie Eilish",
+          "duration": "3:39",
+          "spotify_url": "https://open.spotify.com/embed/track/629DixmZGHc7ILtEntuiWE?utm_source=generator"
+        },
+        {
+          "song_id": 140,
+          "song_cover": "assets/img/song40.jpeg",
+          "title": "Fernet",
+          "artist": "MYA & Emilia",
+          "duration": "2:45",
+          "spotify_url": "https://open.spotify.com/embed/track/2GVahxIzxivfRZc8lR39Ms?utm_source=generator"
+          }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    <title>Music Playlist Explorer</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class = "featured-page">
+    <header>
+      <h1>Music Playlist Explorer</h1>
+      <li class="featuredButton"><a href="./featured.html" class="active"> Featured </a></li>
+      <li class="allButton"><a href="./index.html"> All </a></li>
+    </header>
+
+    <main>
+      <div class="playlist-cards"></div>
+    </main>
+    <div id="playlist-modal" class="modal">
+      <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <h1 id="modal-title"></h1>
+        <p id="modal-author"></p>
+
+        <div class="modal-body">
+          <img id="modal-cover" src="" alt="Playlist Cover" />
+        <ul id="modal-songs"></ul>
+
+        </div>
+        <button id="shuffle-button">Shuffle</button>
+
+
+      </div>
+
+
+
+    <footer>
+      <!-- Your footer content here -->
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
