@@ -4,7 +4,7 @@ Submitted by: **Camila Acquarone**
 
 Estimated time spent: **15** hours spent in total
 
-Deployed Application: [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
+Deployed Application: https://vercel.com/camilas-projects-639abdaa/music-playlist-explorer
 
 ### Application Features
 
